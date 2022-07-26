@@ -36,5 +36,20 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Create a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+A. Campaigns were more successful in the US than other counties
+B. 2013 was a successful year
+C. Category Theater had most the most campaign’s
+![image](https://user-images.githubusercontent.com/101610081/181083275-ec627511-5e82-4151-ad57-d9ea93e15015.png)
+
 2. What are some limitations of this dataset?
+A. Not all information received is complete as some rows have blanks while others do not.
+B. Staff picks are not accurate information to use.
+C. Currency rates in countries are different
+![image](https://user-images.githubusercontent.com/101610081/181083354-f91b76c7-63c3-4f55-b8e3-b633573b045e.png)
+
 3. What are some other possible tables and/or graphs that we could create?
+A. We could create a pivot table based on staff picks compare to states outcomes based on country’s
+B. We could create a chart separating each category and determine which subcategory for each category was more successful.
+C. We could create a table to determine which category had more backers count per country.
+![image](https://user-images.githubusercontent.com/101610081/181083397-2f4f0780-d93a-4ad8-a1d0-83e9af36368d.png)
+
